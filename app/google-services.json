@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "526373580317",
+    "project_id": "qrassignment-e5972",
+    "storage_bucket": "qrassignment-e5972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526373580317:android:8e9804c0c1a2634444e0f4",
+        "android_client_info": {
+          "package_name": "com.example.qrassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526373580317-6es8q5b4306imgvhfiornjns1dj1qpp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qrassignment",
+            "certificate_hash": "3ffcbc6a5f1168176a2818ea43eae60e7a5335b6"
+          }
+        },
+        {
+          "client_id": "526373580317-39ap5lphvu2fjcfgcbumijf263o4js0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6R2b5JzQVrOd6jJx3lPI_QgnvcgOFJ4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526373580317-39ap5lphvu2fjcfgcbumijf263o4js0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
